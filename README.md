@@ -13,7 +13,13 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 - 😄 Pronouns: She/Her
 
 
-![Visitor Count](https://profile-counter.glitch.me/vidhi0511/count.svg)
+
+## Visitor's Count :
+
+
+   ![Visitor Count](https://profile-counter.glitch.me/vidhi0511/count.svg)
+
+
 
 ## GitHub Activity 📊:
 
