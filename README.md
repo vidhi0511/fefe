@@ -37,7 +37,7 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 
  <h2 align="center">📫 Reach out to me on</h2>
   <p align="center">
-    <a target="_blank"href="https://www.linkedin.com/in/vidhi-singh-580588203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://www.linkedin.com/in/vidhi-singh-kshatri-580588203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:vidhisingh0511@gmail.com?subject=Hey%20Vidhi,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
