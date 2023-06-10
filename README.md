@@ -3,9 +3,6 @@
 
 
 I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - Angular.
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhi0511&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Vidhi Singh" /></a></p>
-
-
 
 
                                                                                                                
@@ -24,16 +21,19 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
    
    
 ---
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vidhi0511&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vidhi0511&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi0511&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-## GitHub Activity 📊:
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vidhi0511&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)![Vidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhi0511&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi0511&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vidhi0511&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+
+
 
  <h2 align="center">📫 Reach out to me on</h2>
   <p align="center">
@@ -42,3 +42,4 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 
 
 </p>
+
