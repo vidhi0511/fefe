@@ -3,14 +3,17 @@
 
 
 I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - Angular.
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhi0511&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Vidhi Singh" /></a></p>
+
 
 
 
                                                                                                                
-- 🌱 I’m currently learning Competitive Coding and DSA
+- 🌱 I’m currently learning DSA and looking for opportunities to work.
 - 👯 I’m looking to collaborate on exciting projects
 - 📫 How to reach me: <a href ="https://www.linkedin.com/in/vidhi-singh-580588203/ ">Linkedin</a>
 - 😄 Pronouns: She/Her
+- ⚡ Fun fact: Tabs >>>>> Spaces
 
 ---
 
