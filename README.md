@@ -45,7 +45,11 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vidhi0511&theme=radical"  display=block width=100% height=auto  alt="1" ></td>
    </tr>
 </table>
+
+
 ---
+
+
  <h2 align="center">📫 Reach out to me on</h2>
   <p align="center">
     <a target="_blank"href="https://www.linkedin.com/in/vidhi-singh-kshatri-580588203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
